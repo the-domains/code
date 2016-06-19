@@ -1,0 +1,14 @@
+layout_spectrum: 0.29418138531036675
+typography_spectrum: 0.15258234017528594
+color:
+  brandStrength: 0.9654942953493446
+  lightness: 0.7296582199633121
+  saturation: 0.7609233639668673
+  rhythmicContrast: 0.4086595233529806
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: code
